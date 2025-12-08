@@ -26,5 +26,5 @@
 
 N'hésitez pas à me contacter si vous avez des questions ou des opportunités de collaboration
 
-- [Blog ](https://ebolatech.blog)
-- [Email](mailto:biyayinux@ebolatech.blog)
+- [ebolatech.blog](https://ebolatech.blog)
+- [biyayinux@ebolatech.blog ](mailto:biyayinux@ebolatech.blog)
