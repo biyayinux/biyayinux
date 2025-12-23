@@ -24,7 +24,7 @@
 
 # Me Contacter
 
-N'hésitez pas à me contacter si vous avez des questions ou des opportunités de collaboration
+Ma messagerie est ouverte si vous souhaitez discuter d'un projet commun ou simplement agrandir nos réseaux respectifs
 
 - [ebolatech.blog](https://ebolatech.blog)
 - [biyayinux@ebolatech.blog ](mailto:biyayinux@ebolatech.blog)
