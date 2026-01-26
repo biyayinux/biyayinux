@@ -22,4 +22,4 @@
 > 💬 Je suis peu actif sur les réseaux sociaux 🌐.  
 > 📧 Si besoin, envoyez-moi un mail !
 
-📧 [biyayinux@ebolatech.blog](mailto:biyayinux@ebolatech.blog)
+- 📧 [biyayinux@ebolatech.blog](mailto:biyayinux@ebolatech.blog)
