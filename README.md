@@ -10,13 +10,10 @@
 
 <div class="skills">
   <div class="top-1">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
   </div>
   <div class="top-2">
-    <img src="https://skillicons.dev/icons?i=cpp,nodejs,go,php,git" />
-  </div>
-  <div class="top-3">
-    <img src="https://skillicons.dev/icons?i=express,flask,tailwind,svelte,bash" />
+    <img src="https://skillicons.dev/icons?i=git,express,bash,fastapi,tailwind,svelte" />
   </div>
 </div>
 
