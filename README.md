@@ -21,4 +21,4 @@
 
 > 📧 Pour me joindre, privilégiez le mail plutôt que les réseaux sociaux 🌐
 
-- [biyayinux@gmail.com](mailto:biyayinux@gmail.com)
+- [biyayinux@ebolatech.blog](mailto:biyayinux@ebolatech.blog)
