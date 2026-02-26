@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
   </div>
   <div class="top-2">
-    <img src="https://skillicons.dev/icons?i=git,bash,express,flask,svelte,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,bash,express,fastapi,svelte,tailwind" />
   </div>
 </div>
 
